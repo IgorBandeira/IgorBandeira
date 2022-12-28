@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBandeira&layout=compact&hide_border=true&title_color=74B6F7D&text_color=74B6F7&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IgorBandeira&theme=gotham&hide_border=true&area=true&color=0078FF))](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IgorBandeira&theme=gotham&hide_border=true&area=true&color=0078FF)
 
 ![Snake animation](https://github.com/IgorBandeira/IgorBandeira/blob/output/github-contribution-grid-snake.svg)
 
