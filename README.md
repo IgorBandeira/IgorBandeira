@@ -22,22 +22,26 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=FE680D&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwind-css&labelColor=0D1117)
+
 
 ### Other Knowledge:
 ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=306199&labelColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Selenium](https://img.shields.io/badge/-Selenium-0D1117?style=for-the-badge&logo=selenium&labelColor=0D1117)
 
 ### Relational Database:
 ![MYSQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=FF8F00&labelColor=0D1117)&nbsp;
 ![MicrosoftSQLServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-0D1117?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=E12B2B&labelColor=0D1117)&nbsp;
 
 ### Tools:
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=FF106E&labelColor=0D1117)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=B45CFE&labelColor=0D1117)&nbsp;
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0D1117?style=for-the-badge&logo=azuredevops&logoColor=4292FF&labelColor=0D1117)&nbsp;
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0D1117?style=for-the-badge&logo=bitbucket&logoColor=3A78FF&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=FE3E32&labelColor=0D1117)&nbsp;
 
