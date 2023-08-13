@@ -5,7 +5,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorBandeira&show_icons=true&count_private=true&hide_border=true&title_color=74B6F7D&icon_color=74B6F7&text_color=fff&bg_color=0d1117" alt="Igor Bandeira de Souza github stats" /> 
 
-  <img height="40%" height="195px" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBandeira&&hide=css,html&langs_count=4&layout=compact&hide_border=true&title_color=74B6F7D&text_color=74B6F7&bg_color=0d1117" />
+  <img height="40%" height="195px" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBandeira&&hide=css,html&langs_count=5&layout=compact&hide_border=true&title_color=74B6F7D&text_color=74B6F7&bg_color=0d1117" />
 </div>
 
 [![IgorBandeira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IgorBandeira&theme=gotham&hide_border=true&area=true&color=0078FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
