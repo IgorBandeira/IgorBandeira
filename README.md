@@ -35,6 +35,9 @@
 ![MYSQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=FF8F00&labelColor=0D1117)&nbsp;
 ![MicrosoftSQLServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-0D1117?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=E12B2B&labelColor=0D1117)&nbsp;
 
+### Non-Relational Database:
+![MongoDB](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&logoColor=419F00&labelColor=0D1117)&nbsp;
+
 ### Tools:
 ![Jenkins](https://img.shields.io/badge/-Jenkins-0D1117?style=for-the-badge&logo=jenkins&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
@@ -43,10 +46,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=B45CFE&labelColor=0D1117)&nbsp;
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0D1117?style=for-the-badge&logo=azuredevops&logoColor=4292FF&labelColor=0D1117)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=jira&logoColor=4292FF&labelColor=0D1117)&nbsp;
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0D1117?style=for-the-badge&logo=bitbucket&logoColor=3A78FF&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=FE3E32&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
