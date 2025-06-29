@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06179C&height=180&section=header&text=Igor+Bandeira+de+Souza&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=74B6F7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+WORLD...;I+am+pursuing+a+Postgraduate+in+Advanced+Computation+at+Instituto+Federal+de+São+Paulo;The+thing+I+love+the+most+is+Programming+💙;Be+Welcome+to+my+Profile!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=74B6F7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+WORLD...;I'm+21+years+old;I+study+Postgraduate+in+Advanced+Computation+at+IFSP;Be+Welcome+to+my+Profile!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorBandeira&show_icons=true&count_private=true&hide_border=true&title_color=74B6F7D&icon_color=74B6F7&text_color=fff&bg_color=0d1117" alt="Igor Bandeira de Souza github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorBandeira&show_icons=true&count_private=true&hide_border=true&title_color=74B6F7D&icon_color=74B6F7&text_color=fff&bg_color=0d1117" alt="Igor Bandeira de Souza github stats" />
 
   <img height="40%" height="195px" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBandeira&&hide=css,html&langs_count=5&layout=compact&hide_border=true&title_color=74B6F7D&text_color=74B6F7&bg_color=0d1117" />
 </div>
@@ -26,20 +26,23 @@
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=FE680D&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-
 ### Other Knowledge:
+
 ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=306199&labelColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-0D1117?style=for-the-badge&logo=selenium&labelColor=0D1117)
 
 ### Relational Database:
+
 ![MYSQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=FF8F00&labelColor=0D1117)&nbsp;
 ![MicrosoftSQLServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-0D1117?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=E12B2B&labelColor=0D1117)&nbsp;
 
 ### Non-Relational Database:
+
 ![MongoDB](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&logoColor=419F00&labelColor=0D1117)&nbsp;
 
 ### Tools:
+
 ![Jenkins](https://img.shields.io/badge/-Jenkins-0D1117?style=for-the-badge&logo=jenkins&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
@@ -53,11 +56,10 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{IgorBandeira}/count.svg" /></p> 
 <br></div>
-  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06179C&height=120&section=footer"/>****
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06179C&height=120&section=footer"/>\*\*\*\*
