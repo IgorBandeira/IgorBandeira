@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06179C&height=180&section=header&text=Igor+Bandeira+de+Souza&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=74B6F7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+WORLD...;I'm+21+years+old;I+study+Postgraduate+in+Advanced+Computation+at+IFSP;Be+Welcome+to+my+Profile!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=74B6F7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+WORLD...;I'm+21+years+old;I+study+Postgraduate+in+Applied+Computing+at+IFSP;Be+Welcome+to+my+Profile!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorBandeira&show_icons=true&count_private=true&hide_border=true&title_color=74B6F7D&icon_color=74B6F7&text_color=fff&bg_color=0d1117" alt="Igor Bandeira de Souza github stats" />
